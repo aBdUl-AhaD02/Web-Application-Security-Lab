@@ -236,12 +236,14 @@ This project is for educational purposes only. All penetration testing was condu
 
 ## 📸 Screenshots
 1. WAF Dashboard (https://github.com/aBdUl-AhaD02/Web-Application-Security-Lab/blob/main/Images/Dashboard.png)
-2. Statistics()
-3. Web Application()
-4. Attacks Events()
-5. Attacks Logs()
-6. Anti Bot()
-7. Authorization()
+2. Statistics(https://github.com/aBdUl-AhaD02/Web-Application-Security-Lab/blob/main/Images/Statistics.png)
+3. Web Application(https://github.com/aBdUl-AhaD02/Web-Application-Security-Lab/blob/main/Images/Web%20Application.png)
+4. Attacks Events(https://github.com/aBdUl-AhaD02/Web-Application-Security-Lab/blob/main/Images/Attack%20Events.png)
+5. Attacks Logshttps://github.com/aBdUl-AhaD02/Web-Application-Security-Lab/blob/main/Images/Attack%20Logs.png()
+6. Anti Bot(https://github.com/aBdUl-AhaD02/Web-Application-Security-Lab/blob/main/Images/Anti%20Bot.png)
+7. Authorization(https://github.com/aBdUl-AhaD02/Web-Application-Security-Lab/blob/main/Images/Authorization.png
+
+---
 
 ## 📄 License
 
