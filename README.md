@@ -234,6 +234,15 @@ This project is for educational purposes only. All penetration testing was condu
 
 ---
 
+## 📸 Screenshots
+1. WAF Dashboard (https://github.com/aBdUl-AhaD02/Web-Application-Security-Lab/blob/main/Images/Dashboard.png)
+2. Statistics()
+3. Web Application()
+4. Attacks Events()
+5. Attacks Logs()
+6. Anti Bot()
+7. Authorization()
+
 ## 📄 License
 
 This project is for educational and research purposes.
