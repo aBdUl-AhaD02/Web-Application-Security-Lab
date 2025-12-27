@@ -239,7 +239,7 @@ This project is for educational purposes only. All penetration testing was condu
 2. Statistics(https://github.com/aBdUl-AhaD02/Web-Application-Security-Lab/blob/main/Images/Statistics.png)
 3. Web Application(https://github.com/aBdUl-AhaD02/Web-Application-Security-Lab/blob/main/Images/Web%20Application.png)
 4. Attacks Events(https://github.com/aBdUl-AhaD02/Web-Application-Security-Lab/blob/main/Images/Attack%20Events.png)
-5. Attacks Logshttps://(https://github.com/aBdUl-AhaD02/Web-Application-Security-Lab/blob/main/Images/Attack%20Logs.png)
+5. Attacks Logs(https://github.com/aBdUl-AhaD02/Web-Application-Security-Lab/blob/main/Images/Attack%20Logs.png)
 6. Anti Bot(https://github.com/aBdUl-AhaD02/Web-Application-Security-Lab/blob/main/Images/Anti%20Bot.png)
 7. Authorization(https://github.com/aBdUl-AhaD02/Web-Application-Security-Lab/blob/main/Images/Authorization.png
 
