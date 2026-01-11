@@ -255,4 +255,3 @@ This project is for educational and research purposes.
 
 **Abdul Ahad**
 - LinkedIn: [linkedin.com/in/aabdulahadd](https://linkedin.com/in/aabdulahadd)
-- Email: abdulahad02002@gmail.com
